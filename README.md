@@ -2,11 +2,9 @@
 
 A simple and user-friendly Flutter application for managing contacts.
 
-## 🎥 Demo
+## 🎥 App Demo
 
-Watch the app demo:
-
-`assets/images/final_compressed.mp4`
+https://github.com/user-attachments/assets/103504bb-f7e7-4b7d-b4c4-73d933b25f10
 
 ## ✨ Features
 
